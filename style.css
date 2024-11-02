@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+
+h2, h3, h4{
+    padding-left: 10px;
+}
+p, a{
+    padding-left: 10px;
+}
+div{
+    padding-left: 10px;
+}
+html {
+    background-color: #FFF2E1;
+}
